@@ -10,9 +10,11 @@ body{
 }
 h2{
   margin-top:0px;
+  color:chocolate;
 }
 .encabezado{
-  background-color: darkcyan;
+  background-color: blueviolet;
+  color:white;
   padding:20px;
   margin-bottom: 20px;
   font-size: 30px;
